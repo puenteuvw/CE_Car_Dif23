@@ -1,0 +1,2 @@
+Esta carpeta contiene los residuos cuadráticos modulo p en formato json
+Se usan para verificaciones rápidas en la inicialización de superficies cubicas
