@@ -1,4 +1,4 @@
-#Modulo de enteros modulo n
+#Campo de enteros modulo n
 from math import ceil
 import json
 import os
